@@ -24,3 +24,4 @@ Friendly reminder to always look through the given tests for key phrases, def, a
 
 [All about super classes](https://www.pythonprogramming.in/how-to-use-super-with-a-class-method.html)
 
+[PR request:](https://github.com/NyxofDarkness/pythonic-garage-band/pull/1)
